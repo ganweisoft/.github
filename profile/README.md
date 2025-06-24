@@ -11,6 +11,3 @@
 **TOMs** can be widely applied to various large-scale intelligent scenarios, including but not limited to **Industrial**、**Transportation**、**Port/Harbor**、**Power/Electricity**、**Construction/Building**、**Agriculture**、**Data Centers**、**New Energy**、**Environmental Protection**、**Smart Cities**.
 
 ![应用场景](https://github.com/ganweisoft/TOMs/blob/main/media/img/application-scenarios.jpg)
-
-## Get Involved
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
